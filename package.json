@@ -1,0 +1,22 @@
+{
+  "name": "coffeemeetscroissant",
+  "version": "1.0.0",
+  "description": "its liek randlunch but coffee themed",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EricLum/coffeeMeetsCroissant.git"
+  },
+  "keywords": [
+    "coffee"
+  ],
+  "author": "Eric Lum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricLum/coffeeMeetsCroissant/issues"
+  },
+  "homepage": "https://github.com/EricLum/coffeeMeetsCroissant#readme"
+}
